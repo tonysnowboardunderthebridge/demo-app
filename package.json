@@ -1,7 +1,7 @@
 {
   "name": "demo-app",
-  "version": "1.0.3",
-  "description": "Test Shaq 3",
+  "version": "1.0.4",
+  "description": "Test Shaq 4",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
