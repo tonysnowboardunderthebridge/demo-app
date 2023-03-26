@@ -1,7 +1,7 @@
 {
   "name": "demo-app",
-  "version": "1.0.3",
-  "description": "Testing shaq regenerate workspace 2",
+  "version": "1.0.4",
+  "description": "Testing shaq regenerate workspace 3",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
