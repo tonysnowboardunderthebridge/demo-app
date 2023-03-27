@@ -19,8 +19,8 @@
     "dir": "migrations",
     "table": "versions"
   },
-  "plugin": {
-    "path": "plugin.js"
+  "plugins": {
+    "paths": ["./plugins", "./routes"]
   },
   "types": {
     "autogenerate": true
