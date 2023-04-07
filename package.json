@@ -1,7 +1,7 @@
 {
   "name": "demo-app",
-  "version": "1.0.3",
-  "description": "Goat Eating Grass",
+  "version": "1.0.4",
+  "description": "Goat Eating Grass 4",
   "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
